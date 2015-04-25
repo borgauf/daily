@@ -1,0 +1,76 @@
+# -*- org-html-link-up: "http://borgauf.macsyma.org/"; org-html-link-home: "http://borgauf.macsyma.org" -*-
+
+
+* Money
+
+** Introduction
+
+*** Modern money is a system of value abstraction.
+    
+
+* AI
+
+** Artificial thinking
+
+*** Probabilistic artificial thinking
+
+**** Based on the /probability/ that conclusion is correct, AOT (as opposed to) actual symbolic logically proven conclusion.
+
+***** EG Google Translate      
+
+***** EG Spam filters.
+
+**** Based on
+
+***** EG "The Chinese Librarian"
+
+****** The so-called Chinese Librarian is a librarian of a large collection of Chinese books.
+
+****** The librarian doesn't actually speak or read Chinese.
+
+****** So when a patron requests a book
+
+*******  the title written down on a request slip ...
+
+******* ... and, literally, the *Chinese-illiterate* librarian searches the entire library for a book with the title with the same /hanzi/ characters as those on the slip of paper.
+
+*** Symbolic logic-based artificial thinking
+
+**** The ability to make connections and come up with new things, i.e., symbolic logic deduction and induction.
+
+*** Nested AI
+
+**** From math, A set can be a subset of another set, i.e., a set has a /superset/
+
+
+    
+      
+     
+
+#+NAME: example1
+#+BEGIN_EXAMPLE
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+END_EXAMPLE
+
+#+NAME: quote1
+#+BEGIN_QUOTE
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+my big quote
+#+END_QUOTE
+
+* God
+
+** DEF (definition) Higher entity
+
+*** IE (i.e.) superior skill set.
+
+**** EG cognitize more interconnections and draw useful information
+
+**** EG change things at hyper-level 
+
+
+
+
+
