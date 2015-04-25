@@ -40,7 +40,13 @@
 
 *** Nested AI
 
-**** From math, A set can be a subset of another set, i.e., a set has a /superset/
+**** From math, A set can be a subset of another set, i.e., a set has a /superset/.
+
+**** Heraclitus quote:
+
+***** The dead neither see nor hear; they are closed. No light shines in them; no speech sounds in them. And yet, even they participate in the cosmos. The extinguished ones also belong to the continuum of lighting and extinguishing that is the common cosmos. The dead touch upon the living sleeping, who in turn touch upon the living waking.
+
+**** Heraclitus quote \approx\Rightarrow
 
 
     
